@@ -1,0 +1,42 @@
+/* You can add global styles to this file, and also import other style files */
+
+.header-blog {
+    border-bottom: 1px solid #e5e5e5;
+    line-height: 1;
+  }
+
+  .blog-header-larg {
+    font-family: "Playfair Display", Georgia, "Times New Roman";
+  }
+
+  .blog-header-larg:hover {
+    text-decoration: none;
+  }
+
+  .nav-scroller {
+    position: relative;
+    z-index: 2;
+    height: 2.75rem;
+    overflow-y: hidden;
+  }
+
+  .nav-scroller .nav {
+    display: flex;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+
+
+  }
+
+  .txt {
+    background-color: gray;
+    color: white;
+    margin: 0%;
+    height: 30vh;
+    width: 170px;
+    text-align: center;
+    padding-top: 85px;
+  }
+  .blog-footer{
+    border-top:1px solid #e5e5e5 ;
+  }
