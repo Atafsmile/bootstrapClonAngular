@@ -1,3 +1,7 @@
+![Screenshot (29)](https://user-images.githubusercontent.com/87297598/135730181-5a1bffb5-eda2-4f45-a2f8-66e49f452da7.png)
+![Screenshot (104)](https://user-images.githubusercontent.com/87297598/135730196-74680165-97e1-480a-be6c-98d0e1551b1c.png)
+![Screenshot (109)](https://user-images.githubusercontent.com/87297598/135730212-c5b5cf4a-a02f-4f3e-b686-bef6db3b530f.png)
+
 # BoostrapAngular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.8.
